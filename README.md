@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Shamsad</h1></summary>
   </ul>
 </div>
 
@@ -17,21 +17,19 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">"There are only two hard things in computer science: cache invalidation and naming things." - Phil Karlton</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Vue, Nuxt, React, Nuxt, Nodejs, Express, Flutter, React Native**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to be a fullstack developer and provide a complete solution.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **AWS, react, react-native, nodejs, JavaScript, CSS, Sass, Tailwind, Chakra UI, daisyUI**
 
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
