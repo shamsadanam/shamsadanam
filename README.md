@@ -1,6 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -14,6 +11,9 @@
     <summary><h2 style="display: inline-block">"There are only two hard things in computer science: cache invalidation and naming things." - Phil Karlton</h2></summary>
   </ul>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
