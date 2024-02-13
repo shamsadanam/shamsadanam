@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hi@shamsad.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yM3oj0FsEjQ0gksIssSTRdylkQliz_Qg/view?usp=sharing](https://drive.google.com/file/d/1yM3oj0FsEjQ0gksIssSTRdylkQliz_Qg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yM3oj0FsEjQ0gksIssSTRdylkQliz_Qg/view?usp=sharing](View PDF)
 
 ### Blogs posts
 
