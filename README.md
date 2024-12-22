@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsadanam" alt="shamsadanam" /></a> </p>
 
-- 🔭 I’m currently working on [iSupportDementia](http://dev-isupport-dementia.appinionbd.com/)
+- 🔭 I’m currently working on [SafwahMart](http://safwahmart-dev.appinionbd.com/)
 
 - 🌱 I’m currently learning **Laravel**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hi@shamsad.com**
 
-- 📄 Know about my experiences [View PDF](https://drive.google.com/file/d/1yM3oj0FsEjQ0gksIssSTRdylkQliz_Qg/view?usp=sharing)
+- 📄 Know about my experiences [View PDF](https://drive.google.com/file/d/1L6vZGzFrhVx7i_5qkiUd78-ZQU8Wwuwe/view?usp=sharing)
 
 ### Blogs posts
 
