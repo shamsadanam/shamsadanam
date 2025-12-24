@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shamsad.anam@gmail.com**
 
-- 📄 Know about my experiences [View PDF](shamsad-anam-cv.pdf)
+- 📄 Know about my experiences [View PDF](https://drive.google.com/file/d/1L6vZGzFrhVx7i_5qkiUd78-ZQU8Wwuwe/view?usp=sharing)
 
 <h3 align="left">Recent Projects:</h3>
 
