@@ -19,8 +19,8 @@
 
 <h3 align="left">Recent Projects:</h3>
 
+- [Electromart](https://electromart.store/)
 - [Supermom](https://supermombd.com/)
-- [Safwah Mart](https://safwahmart.com/)
 - [Cyber Hygine](https://cybershochetonota.com/)
 - [iSupportDementia](https://isupport-bd.com/)
 - [Quality Foods](https://qualityfoods.com.bd/)
