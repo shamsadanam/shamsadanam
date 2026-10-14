@@ -15,7 +15,9 @@
 
 - 📫 How to reach me [hi@shamsad.com](mailto:hi@shamsad.com)
 
-- 📄 Know about my experiences [View PDF](https://drive.google.com/file/d/1L6vZGzFrhVx7i_5qkiUd78-ZQU8Wwuwe/view?usp=sharing)
+- 🌐 Visit my website [shamsad.com](https://shamsad.com)
+
+- 📄 Know about my experiences [View PDF](https://drive.google.com/file/d/19pB4C1YMF-zhJPuKJ9Xr-4KC66y3m06V/view?usp=sharing)
 
 <h3 align="left">Recent Projects:</h3>
 
@@ -24,7 +26,6 @@
 - [Cyber Hygine](https://cybershochetonota.com/)
 - [iSupportDementia](https://isupport-bd.com/)
 - [Quality Foods](https://qualityfoods.com.bd/)
-- [Shojon](https://shojon.sajida.org/)
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left">
