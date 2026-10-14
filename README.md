@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Nuxt, Vue, React, NextJS**
 
-- 📫 How to reach me **hi@shamsad.com**
+- 📫 How to reach me [hi@shamsad.com](mailto:hi@shamsad.com)
 
 - 📄 Know about my experiences [View PDF](https://drive.google.com/file/d/1L6vZGzFrhVx7i_5qkiUd78-ZQU8Wwuwe/view?usp=sharing)
 
